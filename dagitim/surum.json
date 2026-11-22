@@ -1,8 +1,19 @@
 {
- "surum": "3.23",
+ "surum": "3.24",
  "tarih": "2026-11-22",
- "notlar": "• Programın yeni adı: Hedef500 – LGS Öğrenci Koçluk Programı. Verileriniz, lisansınız, ayarlarınız ve yedekleriniz aynen korunur; güncellemeler eskisi gibi kendiliğinden gelir.\n• Program günlerce açık kalsa da üst çubuktaki lisans ve kalan gün yazısı gün değişince kendiliğinden yenilenir (yarım saatte bir ve pencere öne geldiğinde denetlenir). Açıksa Ana Sayfa da o günün bilgileriyle güncellenir.\n• Öğrenci listesi sütun başlıklarına tıklanarak sıralanabilir: Ad Soyad, Sınıf, No ya da Son net (en yüksekten başlar). Aynı başlığa yeniden tıklanınca sıra tersine döner; seçtiğiniz sıralama program kapanınca da hatırlanır.\n• Yeni: Raporlar ▾ → Sınıf Net Listesi. Öğrenci listesindeki görünüm (son net, önceki deneme, ▲▼ net değişimi, puan ve puan değişimi; 5+ net düşenler kırmızı) soldaki sınıf filtresi ve listedeki sıralamayla PDF olur. Tüm sınıflar seçiliyse her sınıf yeni sayfada, kendi başlığıyla başlar.\n• Oluşturulan PDF'lerin klasörüne program içinden ulaşılır: Raporlar ▾ → Rapor Klasörünü Aç (seçili öğrencinin ya da sınıfın klasörü) ve Ana Sayfa'daki “Rapor Klasörü” düğmesi. Rapor oluşunca çıkan pencerede “Dosyayı Aç” ve “Klasörü Aç” seçenekleri var.\n• Yeni: Program ilk açılışta bilgisayara yerleştirilmeyi önerir. İndirilen dosya İndirilenler'de ya da Masaüstünde dağınıklık yaratmaz: program kendi klasörüne kopyalanır, Masaüstüne ve Başlat menüsüne “Hedef500 - LGS Koçluk” kısayolu eklenir, öğrenci verileri bulut klasörlerine (OneDrive) yüklenmez. Şu an bulunduğu yerde kullananlar Ayarlar → Programı Yerleştir… ile programı ve verilerini taşıyabilir.\n• Yeni: Yardım ▾ menüsü (sağ üstte). Kullanım kılavuzu artık programın içinde: Yardım ▾ → Kullanım Kılavuzu, F1 tuşu ya da Ana Sayfa'daki “Kullanım kılavuzu” bağlantısı (internet gerekmez).\n• Ana Sayfa'da açılan bir pencere İptal ile kapatılınca ekranın yanıp sönmesi giderildi.\n• Lisans ve demo süresi denetimi güçlendirildi.",
+ "notlar": "• Programın dosya adı artık Hedef500.exe; simgesi ve üst çubuktaki işareti Hedef500 logosu.\n• Yeni indirilen program ilk açılışta soru sormadan kendini bilgisayara yerleştirir; Masaüstüne ve Başlat menüsüne “Hedef500” kısayolu eklenir. Eski adlı kısayollar (“LGS Koçluk”, “Hedef500 - LGS Koçluk”) kaldırılır. Programı Masaüstünde “LGS Koçluk.exe” olarak kullananlar Ayarlar → Programı Yerleştir… ile program ve verilerini birlikte taşıyabilir.\n• Program güncellemelerini artık Hedef500 adresinden alır.\n• Demo süresi denetimi güçlendirildi.\n• Şablon Excel’in “Nasıl doldurulur” sayfasında, Excel açıklama penceresinde ve kullanım kılavuzunda örnekler artık kişi adı ve gerçek olabilecek telefon numarası içermiyor (“LGS Öğrencisi”, “Öğrenci Velisi”, 05xx xxx xx xx).",
  "gecmis": [
+  {
+   "surum": "3.24",
+   "tarih": "2026-11-22",
+   "maddeler": [
+    "Programın dosya adı artık Hedef500.exe; simgesi ve üst çubuktaki işareti Hedef500 logosu.",
+    "Yeni indirilen program ilk açılışta soru sormadan kendini bilgisayara yerleştirir; Masaüstüne ve Başlat menüsüne “Hedef500” kısayolu eklenir. Eski adlı kısayollar (“LGS Koçluk”, “Hedef500 - LGS Koçluk”) kaldırılır. Programı Masaüstünde “LGS Koçluk.exe” olarak kullananlar Ayarlar → Programı Yerleştir… ile program ve verilerini birlikte taşıyabilir.",
+    "Program güncellemelerini artık Hedef500 adresinden alır.",
+    "Demo süresi denetimi güçlendirildi.",
+    "Şablon Excel’in “Nasıl doldurulur” sayfasında, Excel açıklama penceresinde ve kullanım kılavuzunda örnekler artık kişi adı ve gerçek olabilecek telefon numarası içermiyor (“LGS Öğrencisi”, “Öğrenci Velisi”, 05xx xxx xx xx)."
+   ]
+  },
   {
    "surum": "3.23",
    "tarih": "2026-11-22",
@@ -209,8 +220,8 @@
    ]
   }
  ],
- "dosya": "https://github.com/satabey-prog/lgs-kocluk/releases/download/v3.23/LGS-Kocluk.exe",
- "sha256": "7d49eb5019f61ea90e2a966206ef3ec19a7840071a4f3299e5ca084678648cef",
- "boyut": 33213148,
- "imza": "ZdYGiuXtw8drYDTe2OScPDNC4sVkm9QVLqK17xPQwYXEO86n2crMU8f0nWH8CtwS3GIVAY264fiClQn0GqMTAg=="
+ "dosya": "https://github.com/hedef500/lgs-kocluk/releases/download/v3.24/Hedef500.exe",
+ "sha256": "97b66e2c734ca82676c5f87c05a437e923e0237b6f55be583db304862cb08e12",
+ "boyut": 34354336,
+ "imza": "0M0cS7irUL2aSIEoMrWM-FMph5RApUdhnNIHiTcu6pOAiVzeNLhs-7mVMrpMIIpEdbW_1GjoJND44fjf93m-Cg=="
 }
