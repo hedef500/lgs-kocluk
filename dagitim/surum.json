@@ -1,8 +1,23 @@
 {
- "surum": "3.22",
+ "surum": "3.23",
  "tarih": "2026-11-22",
- "notlar": "• Yeni: Ana Sayfa. Program açıldığında sağda, öğrenci seçili değilken görünür; bir öğrenciyi seçince ayrıntılarına geçilir, üst çubuktaki “⌂ Ana Sayfa” ile geri dönülür.\n• Ana Sayfa → Başlarken: programı kullanmaya başlarken izlenecek altı adım sırasıyla (ayarlar, öğrenciler, okulda işlenen konular, deneme aktarma, çalışma programı, velilere gönderim). Tamamlanan adımlar kendiliğinden işaretlenir; her adımın düğmesi o işi doğrudan açar.\n• Ana Sayfa → Bu hafta: son deneme ve katılım, bu haftanın programı hazır olan öğrenci sayısı (eksikler tek düğmeyle tamamlanır), son denemede 5+ net düşen öğrenciler, görüşme zamanı gelenler ve veli telefonu eksik öğrenciler. Sol panelde sınıf seçiliyse yalnızca o sınıf gösterilir.\n• Öğrenci listesinde yeni “Son net” sütunu: son denemedeki toplam net ve önceki denemeye göre ▲ / ▼; 5+ net düşen öğrenci kırmızı yazılır.\n• Üst çubuk sadeleşti: ⌂ Ana Sayfa, PDF'den Deneme Aktar, Raporlar ▾ (öğrenci ve sınıf raporlarının hepsi, WhatsApp ile gönderim), Yönetim ▾ (Denemeleri Yönet, Konuları Düzenle, Okulda İşlenen Konular) ve Ayarlar.",
+ "notlar": "• Programın yeni adı: Hedef500 – LGS Öğrenci Koçluk Programı. Verileriniz, lisansınız, ayarlarınız ve yedekleriniz aynen korunur; güncellemeler eskisi gibi kendiliğinden gelir.\n• Program günlerce açık kalsa da üst çubuktaki lisans ve kalan gün yazısı gün değişince kendiliğinden yenilenir (yarım saatte bir ve pencere öne geldiğinde denetlenir). Açıksa Ana Sayfa da o günün bilgileriyle güncellenir.\n• Öğrenci listesi sütun başlıklarına tıklanarak sıralanabilir: Ad Soyad, Sınıf, No ya da Son net (en yüksekten başlar). Aynı başlığa yeniden tıklanınca sıra tersine döner; seçtiğiniz sıralama program kapanınca da hatırlanır.\n• Yeni: Raporlar ▾ → Sınıf Net Listesi. Öğrenci listesindeki görünüm (son net, önceki deneme, ▲▼ net değişimi, puan ve puan değişimi; 5+ net düşenler kırmızı) soldaki sınıf filtresi ve listedeki sıralamayla PDF olur. Tüm sınıflar seçiliyse her sınıf yeni sayfada, kendi başlığıyla başlar.\n• Oluşturulan PDF'lerin klasörüne program içinden ulaşılır: Raporlar ▾ → Rapor Klasörünü Aç (seçili öğrencinin ya da sınıfın klasörü) ve Ana Sayfa'daki “Rapor Klasörü” düğmesi. Rapor oluşunca çıkan pencerede “Dosyayı Aç” ve “Klasörü Aç” seçenekleri var.\n• Yeni: Program ilk açılışta bilgisayara yerleştirilmeyi önerir. İndirilen dosya İndirilenler'de ya da Masaüstünde dağınıklık yaratmaz: program kendi klasörüne kopyalanır, Masaüstüne ve Başlat menüsüne “Hedef500 - LGS Koçluk” kısayolu eklenir, öğrenci verileri bulut klasörlerine (OneDrive) yüklenmez. Şu an bulunduğu yerde kullananlar Ayarlar → Programı Yerleştir… ile programı ve verilerini taşıyabilir.\n• Yeni: Yardım ▾ menüsü (sağ üstte). Kullanım kılavuzu artık programın içinde: Yardım ▾ → Kullanım Kılavuzu, F1 tuşu ya da Ana Sayfa'daki “Kullanım kılavuzu” bağlantısı (internet gerekmez).\n• Ana Sayfa'da açılan bir pencere İptal ile kapatılınca ekranın yanıp sönmesi giderildi.\n• Lisans ve demo süresi denetimi güçlendirildi.",
  "gecmis": [
+  {
+   "surum": "3.23",
+   "tarih": "2026-11-22",
+   "maddeler": [
+    "Programın yeni adı: Hedef500 – LGS Öğrenci Koçluk Programı. Verileriniz, lisansınız, ayarlarınız ve yedekleriniz aynen korunur; güncellemeler eskisi gibi kendiliğinden gelir.",
+    "Program günlerce açık kalsa da üst çubuktaki lisans ve kalan gün yazısı gün değişince kendiliğinden yenilenir (yarım saatte bir ve pencere öne geldiğinde denetlenir). Açıksa Ana Sayfa da o günün bilgileriyle güncellenir.",
+    "Öğrenci listesi sütun başlıklarına tıklanarak sıralanabilir: Ad Soyad, Sınıf, No ya da Son net (en yüksekten başlar). Aynı başlığa yeniden tıklanınca sıra tersine döner; seçtiğiniz sıralama program kapanınca da hatırlanır.",
+    "Yeni: Raporlar ▾ → Sınıf Net Listesi. Öğrenci listesindeki görünüm (son net, önceki deneme, ▲▼ net değişimi, puan ve puan değişimi; 5+ net düşenler kırmızı) soldaki sınıf filtresi ve listedeki sıralamayla PDF olur. Tüm sınıflar seçiliyse her sınıf yeni sayfada, kendi başlığıyla başlar.",
+    "Oluşturulan PDF'lerin klasörüne program içinden ulaşılır: Raporlar ▾ → Rapor Klasörünü Aç (seçili öğrencinin ya da sınıfın klasörü) ve Ana Sayfa'daki “Rapor Klasörü” düğmesi. Rapor oluşunca çıkan pencerede “Dosyayı Aç” ve “Klasörü Aç” seçenekleri var.",
+    "Yeni: Program ilk açılışta bilgisayara yerleştirilmeyi önerir. İndirilen dosya İndirilenler'de ya da Masaüstünde dağınıklık yaratmaz: program kendi klasörüne kopyalanır, Masaüstüne ve Başlat menüsüne “Hedef500 - LGS Koçluk” kısayolu eklenir, öğrenci verileri bulut klasörlerine (OneDrive) yüklenmez. Şu an bulunduğu yerde kullananlar Ayarlar → Programı Yerleştir… ile programı ve verilerini taşıyabilir.",
+    "Yeni: Yardım ▾ menüsü (sağ üstte). Kullanım kılavuzu artık programın içinde: Yardım ▾ → Kullanım Kılavuzu, F1 tuşu ya da Ana Sayfa'daki “Kullanım kılavuzu” bağlantısı (internet gerekmez).",
+    "Ana Sayfa'da açılan bir pencere İptal ile kapatılınca ekranın yanıp sönmesi giderildi.",
+    "Lisans ve demo süresi denetimi güçlendirildi."
+   ]
+  },
   {
    "surum": "3.22",
    "tarih": "2026-11-22",
@@ -194,8 +209,8 @@
    ]
   }
  ],
- "dosya": "https://github.com/satabey-prog/lgs-kocluk/releases/download/v3.22/LGS-Kocluk.exe",
- "sha256": "ce85cbd89e527d68e2ac32f88bfa085da2baaea93eadea96e6e500cec1d16e83",
- "boyut": 31879133,
- "imza": "fRvDKf0NjGzmmG9mOCa0IZNcGb2MskkQAqaH_1OVAm6Ec6aMogJjln5LH6J42m94oeuKsR7DUKe03pTGciw0Dg=="
+ "dosya": "https://github.com/satabey-prog/lgs-kocluk/releases/download/v3.23/LGS-Kocluk.exe",
+ "sha256": "7d49eb5019f61ea90e2a966206ef3ec19a7840071a4f3299e5ca084678648cef",
+ "boyut": 33213148,
+ "imza": "ZdYGiuXtw8drYDTe2OScPDNC4sVkm9QVLqK17xPQwYXEO86n2crMU8f0nWH8CtwS3GIVAY264fiClQn0GqMTAg=="
 }
