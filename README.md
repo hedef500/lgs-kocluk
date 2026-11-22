@@ -1,12 +1,13 @@
-# LGS Öğrenci Koçluk Programı
+# Hedef500 – LGS Öğrenci Koçluk Programı
 
 8. sınıf öğrencilerinin LGS hazırlığını bir eğitim koçunun gözünden takip etmek için Windows masaüstü programı.
+(3.22 ve önceki sürümlerdeki adı: LGS Öğrenci Koçluk Programı. Eski sürümü kullananlar güncellemeyle Hedef500'e geçer; verileri ve lisansları korunur.)
 
 - Yayınevlerinin deneme sonuç PDF'lerini (karne ve kurum listeleri) tek seferde okur
 - Konu bazlı eksikleri bulur, konu durumlarını kendiliğinden günceller
 - Öncelik sıralı haftalık çalışma programı hazırlar (dikey liste ya da yatay haftalık çizelge)
 - Öğrenci gelişim raporu, sınıf raporu ve çalışma programını A4 ve telefon biçiminde PDF olarak üretir
-- Sınıfları karşılaştırır; konu etüt grupları ve deneme katılım raporu hazırlar
+- Sınıf net listesi (son net, önceki deneme, ▲▼ değişim, puan) çıkarır; sınıfları karşılaştırır, konu etüt grupları ve deneme katılım raporu hazırlar
 - Öğrencileri şablon Excel dosyasıyla toplu ekler, veli ve hedef bilgilerini toplu günceller
 - Raporları veliye WhatsApp üzerinden yarı otomatik gönderir
 - Okuyamadığı bir yayının belgesini ve program hatalarını, kişisel bilgiler gizlenmiş bir raporla geliştiriciye bildirmenizi sağlar
@@ -18,8 +19,8 @@
 
 | Dosya | Ne? |
 |---|---|
-| `LGS-Kocluk.exe` | Program. Kurulum gerekmez; bir klasöre koyup çift tıklayın. Verileriniz aynı klasördeki `veri` klasöründe tutulur. |
-| `LGS-Kocluk-Kullanim-Kilavuzu.pdf` | Kullanım kılavuzu: programın her bölümü adım adım. |
+| `LGS-Kocluk.exe` | Program. İndirdiğiniz yerden çift tıklayın: ilk açılışta bilgisayarınıza yerleştirilmesini önerir. Program kendi klasörüne kopyalanır, Masaüstüne ve Başlat menüsüne **Hedef500 - LGS Koçluk** kısayolu eklenir, indirilen dosya Geri Dönüşüm Kutusu'na taşınır. Yönetici izni gerekmez; öğrenci verileri bulut klasörlerine (OneDrive) yüklenmez. |
+| `LGS-Kocluk-Kullanim-Kilavuzu.pdf` | Kullanım kılavuzu: programın her bölümü adım adım. Aynı kılavuz programın içinde de var: **Yardım ▾ → Kullanım Kılavuzu** (ya da F1). |
 | `LGS-Kocluk-Ogrenci-Listesi-Sablonu.xlsx` | Öğrenci listesi şablonu: öğrencilerinizi yazıp programda **Toplu İşlemler → Excel'den Bilgi Aktar…** ile yükleyin. Aynı şablon program içinden de oluşturulabilir. |
 | `surum.json`, `iptal.json` | Programın güncelleme ve lisans denetimi için kullandığı dosyalar; indirmeniz gerekmez. |
 
