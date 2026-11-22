@@ -3,6 +3,8 @@
 8. sınıf öğrencilerinin LGS hazırlığını bir eğitim koçunun gözünden takip etmek için Windows masaüstü programı.
 (3.22 ve önceki sürümlerdeki adı: LGS Öğrenci Koçluk Programı. Eski sürümü kullananlar güncellemeyle Hedef500'e geçer; verileri ve lisansları korunur.)
 
+Tanıtım sayfası: **https://hedef500.tr**
+
 - Yayınevlerinin deneme sonuç PDF'lerini (karne ve kurum listeleri) tek seferde okur
 - Konu bazlı eksikleri bulur, konu durumlarını kendiliğinden günceller
 - Öncelik sıralı haftalık çalışma programı hazırlar (dikey liste ya da yatay haftalık çizelge)
@@ -19,9 +21,9 @@
 
 | Dosya | Ne? |
 |---|---|
-| `LGS-Kocluk.exe` | Program. İndirdiğiniz yerden çift tıklayın: ilk açılışta bilgisayarınıza yerleştirilmesini önerir. Program kendi klasörüne kopyalanır, Masaüstüne ve Başlat menüsüne **Hedef500 - LGS Koçluk** kısayolu eklenir, indirilen dosya Geri Dönüşüm Kutusu'na taşınır. Yönetici izni gerekmez; öğrenci verileri bulut klasörlerine (OneDrive) yüklenmez. |
-| `LGS-Kocluk-Kullanim-Kilavuzu.pdf` | Kullanım kılavuzu: programın her bölümü adım adım. Aynı kılavuz programın içinde de var: **Yardım ▾ → Kullanım Kılavuzu** (ya da F1). |
-| `LGS-Kocluk-Ogrenci-Listesi-Sablonu.xlsx` | Öğrenci listesi şablonu: öğrencilerinizi yazıp programda **Toplu İşlemler → Excel'den Bilgi Aktar…** ile yükleyin. Aynı şablon program içinden de oluşturulabilir. |
+| `Hedef500.exe` | Program. İndirdiğiniz yerden çift tıklayın: ilk açılışta kendini bilgisayarınıza yerleştirir. Program kendi klasörüne kopyalanır, Masaüstüne ve Başlat menüsüne **Hedef500** kısayolu eklenir, indirilen dosya Geri Dönüşüm Kutusu'na taşınır. Yönetici izni gerekmez; öğrenci verileri bulut klasörlerine (OneDrive) yüklenmez. |
+| `Hedef500-Kullanim-Kilavuzu.pdf` | Kullanım kılavuzu: programın her bölümü adım adım. Aynı kılavuz programın içinde de var: **Yardım ▾ → Kullanım Kılavuzu** (ya da F1). |
+| `Hedef500-Ogrenci-Listesi-Sablonu.xlsx` | Öğrenci listesi şablonu: öğrencilerinizi yazıp programda **Toplu İşlemler → Excel'den Bilgi Aktar…** ile yükleyin. Aynı şablon program içinden de oluşturulabilir. |
 | `surum.json`, `iptal.json` | Programın güncelleme ve lisans denetimi için kullandığı dosyalar; indirmeniz gerekmez. |
 
 > Windows ilk açılışta "Windows bilgisayarınızı korudu" uyarısı gösterebilir: **Ek bilgi → Yine de çalıştır** deyin.
