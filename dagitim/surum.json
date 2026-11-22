@@ -1,8 +1,19 @@
 {
- "surum": "3.21",
- "tarih": "2026-11-21",
- "notlar": "• GitHub'a ulaşılamayan ağlarda (ör. bazı okul ağları) program güncelleme ve lisans bilgisini yedek bir adresten alır. Yeni sürümün kendisi indirilemezse program, evde ya da telefon internetiyle güncellemenizi söyler.\n• İnternete uzun süre bağlanılamadığında çıkan lisans doğrulama uyarısı artık haftada bir gösteriliyor.\n• Yeni: Şablon Excel dosyası. Toplu İşlemler → Excel'den Bilgi Aktar… penceresindeki “Şablon Excel Dosyası Oluştur…” ile kayıtlı öğrencilerinizin okul numarası, adı ve sınıfı hazır gelen bir Excel dosyası oluşturulur; eksik sütunları doldurup aynı pencereden yüklersiniz. Boş şablon program indirme sayfasında da var.\n• Excel'den aktarırken sistemde olmayan öğrenciler artık yeni öğrenci olarak eklenebilir: ilk kurulumda öğrencilerinizi şablon dosyayla toplu ekleyebilirsiniz (demo / lisans öğrenci sınırı geçerlidir).\n• Yeni: Hata bildirimi. Beklenmeyen bir hata olduğunda program hatayı geliştiriciye bildirmek isteyip istemediğinizi sorar; hata çıkmadan yaşadığınız sorunları Ayarlar → Sorun Bildir… ile iletebilirsiniz. Raporda öğrenci adları ve kişisel bilgiler gizlenir, göndermeden önce raporun tamamını görürsünüz.",
+ "surum": "3.22",
+ "tarih": "2026-11-22",
+ "notlar": "• Yeni: Ana Sayfa. Program açıldığında sağda, öğrenci seçili değilken görünür; bir öğrenciyi seçince ayrıntılarına geçilir, üst çubuktaki “⌂ Ana Sayfa” ile geri dönülür.\n• Ana Sayfa → Başlarken: programı kullanmaya başlarken izlenecek altı adım sırasıyla (ayarlar, öğrenciler, okulda işlenen konular, deneme aktarma, çalışma programı, velilere gönderim). Tamamlanan adımlar kendiliğinden işaretlenir; her adımın düğmesi o işi doğrudan açar.\n• Ana Sayfa → Bu hafta: son deneme ve katılım, bu haftanın programı hazır olan öğrenci sayısı (eksikler tek düğmeyle tamamlanır), son denemede 5+ net düşen öğrenciler, görüşme zamanı gelenler ve veli telefonu eksik öğrenciler. Sol panelde sınıf seçiliyse yalnızca o sınıf gösterilir.\n• Öğrenci listesinde yeni “Son net” sütunu: son denemedeki toplam net ve önceki denemeye göre ▲ / ▼; 5+ net düşen öğrenci kırmızı yazılır.\n• Üst çubuk sadeleşti: ⌂ Ana Sayfa, PDF'den Deneme Aktar, Raporlar ▾ (öğrenci ve sınıf raporlarının hepsi, WhatsApp ile gönderim), Yönetim ▾ (Denemeleri Yönet, Konuları Düzenle, Okulda İşlenen Konular) ve Ayarlar.",
  "gecmis": [
+  {
+   "surum": "3.22",
+   "tarih": "2026-11-22",
+   "maddeler": [
+    "Yeni: Ana Sayfa. Program açıldığında sağda, öğrenci seçili değilken görünür; bir öğrenciyi seçince ayrıntılarına geçilir, üst çubuktaki “⌂ Ana Sayfa” ile geri dönülür.",
+    "Ana Sayfa → Başlarken: programı kullanmaya başlarken izlenecek altı adım sırasıyla (ayarlar, öğrenciler, okulda işlenen konular, deneme aktarma, çalışma programı, velilere gönderim). Tamamlanan adımlar kendiliğinden işaretlenir; her adımın düğmesi o işi doğrudan açar.",
+    "Ana Sayfa → Bu hafta: son deneme ve katılım, bu haftanın programı hazır olan öğrenci sayısı (eksikler tek düğmeyle tamamlanır), son denemede 5+ net düşen öğrenciler, görüşme zamanı gelenler ve veli telefonu eksik öğrenciler. Sol panelde sınıf seçiliyse yalnızca o sınıf gösterilir.",
+    "Öğrenci listesinde yeni “Son net” sütunu: son denemedeki toplam net ve önceki denemeye göre ▲ / ▼; 5+ net düşen öğrenci kırmızı yazılır.",
+    "Üst çubuk sadeleşti: ⌂ Ana Sayfa, PDF'den Deneme Aktar, Raporlar ▾ (öğrenci ve sınıf raporlarının hepsi, WhatsApp ile gönderim), Yönetim ▾ (Denemeleri Yönet, Konuları Düzenle, Okulda İşlenen Konular) ve Ayarlar."
+   ]
+  },
   {
    "surum": "3.21",
    "tarih": "2026-11-21",
@@ -183,8 +194,8 @@
    ]
   }
  ],
- "dosya": "https://github.com/satabey-prog/lgs-kocluk/releases/download/v3.21/LGS-Kocluk.exe",
- "sha256": "ed2606498afbdb06dcbd4261475a98020e9cd082ce1905e498a321cd3ddc702c",
- "boyut": 31857139,
- "imza": "eAcBPMda2ppVb7bcPb6j5kovKWFT8jVh44-yDcPDZzdQw8XmzSisl0BvSWAgVlpDi2fidBQUy-xaMWZVHOTBCA=="
+ "dosya": "https://github.com/satabey-prog/lgs-kocluk/releases/download/v3.22/LGS-Kocluk.exe",
+ "sha256": "ce85cbd89e527d68e2ac32f88bfa085da2baaea93eadea96e6e500cec1d16e83",
+ "boyut": 31879133,
+ "imza": "fRvDKf0NjGzmmG9mOCa0IZNcGb2MskkQAqaH_1OVAm6Ec6aMogJjln5LH6J42m94oeuKsR7DUKe03pTGciw0Dg=="
 }
