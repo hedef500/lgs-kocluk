@@ -1,8 +1,17 @@
 {
- "surum": "3.24",
- "tarih": "2026-11-22",
- "notlar": "• Programın dosya adı artık Hedef500.exe; simgesi ve üst çubuktaki işareti Hedef500 logosu.\n• Yeni indirilen program ilk açılışta soru sormadan kendini bilgisayara yerleştirir; Masaüstüne ve Başlat menüsüne “Hedef500” kısayolu eklenir. Eski adlı kısayollar (“LGS Koçluk”, “Hedef500 - LGS Koçluk”) kaldırılır. Programı Masaüstünde “LGS Koçluk.exe” olarak kullananlar Ayarlar → Programı Yerleştir… ile program ve verilerini birlikte taşıyabilir.\n• Program güncellemelerini artık Hedef500 adresinden alır.\n• Demo süresi denetimi güçlendirildi.\n• Şablon Excel’in “Nasıl doldurulur” sayfasında, Excel açıklama penceresinde ve kullanım kılavuzunda örnekler artık kişi adı ve gerçek olabilecek telefon numarası içermiyor (“LGS Öğrencisi”, “Öğrenci Velisi”, 05xx xxx xx xx).",
+ "surum": "3.25",
+ "tarih": "2026-11-23",
+ "notlar": "• Çalışma Programı'nda görevlerin gün içindeki sırası değiştirilebilir: görevi seçip ▲ / ▼ düğmelerine (ya da Alt+↑ / Alt+↓) basın. Sıra ekranda ve bütün program PDF'lerinde aynen kullanılır; yeni eklenen görev günün sonuna, başka güne taşınan görev o günün sonuna eklenir.\n• Yanlışlıkla silinen görevler geri alınabilir: “Seçileni Sil” ya da “Haftayı Temizle”den sonra ↶ Geri Al düğmesi (ya da Ctrl+Z) son silineni tamamlandı işaretiyle ve sırasıyla geri getirir; art arda basınca daha önceki silmeler de döner. Program kapatılıp açılsa da 30 gün içinde geri alınabilir.\n• Yatay (A4) haftalık çizelge yenilendi: satırlar artık derslere göre (aynı ders her gün aynı satırda; satır sırasını haftanın ilk günündeki sıra belirler), görevlerin açıklamaları (öncelik nedeni ve sizin yazdığınız notlar) çizelgede yazılı, üst bant tek satıra indi ve çizelge mümkün olduğunca tek sayfaya sığdırılıyor (gerekirse yazı boyutu küçülür).\nYenilikler: Çalışma Programı'nda gün içi sıra (▲▼), silinen görevleri Geri Al (Ctrl+Z), ders hizalı ve açıklamalı tek sayfa haftalık çizelge.",
  "gecmis": [
+  {
+   "surum": "3.25",
+   "tarih": "2026-11-23",
+   "maddeler": [
+    "Çalışma Programı'nda görevlerin gün içindeki sırası değiştirilebilir: görevi seçip ▲ / ▼ düğmelerine (ya da Alt+↑ / Alt+↓) basın. Sıra ekranda ve bütün program PDF'lerinde aynen kullanılır; yeni eklenen görev günün sonuna, başka güne taşınan görev o günün sonuna eklenir.",
+    "Yanlışlıkla silinen görevler geri alınabilir: “Seçileni Sil” ya da “Haftayı Temizle”den sonra ↶ Geri Al düğmesi (ya da Ctrl+Z) son silineni tamamlandı işaretiyle ve sırasıyla geri getirir; art arda basınca daha önceki silmeler de döner. Program kapatılıp açılsa da 30 gün içinde geri alınabilir.",
+    "Yatay (A4) haftalık çizelge yenilendi: satırlar artık derslere göre (aynı ders her gün aynı satırda; satır sırasını haftanın ilk günündeki sıra belirler), görevlerin açıklamaları (öncelik nedeni ve sizin yazdığınız notlar) çizelgede yazılı, üst bant tek satıra indi ve çizelge mümkün olduğunca tek sayfaya sığdırılıyor (gerekirse yazı boyutu küçülür)."
+   ]
+  },
   {
    "surum": "3.24",
    "tarih": "2026-11-22",
@@ -220,8 +229,8 @@
    ]
   }
  ],
- "dosya": "https://github.com/hedef500/lgs-kocluk/releases/download/v3.24/Hedef500.exe",
- "sha256": "97b66e2c734ca82676c5f87c05a437e923e0237b6f55be583db304862cb08e12",
- "boyut": 34354336,
- "imza": "0M0cS7irUL2aSIEoMrWM-FMph5RApUdhnNIHiTcu6pOAiVzeNLhs-7mVMrpMIIpEdbW_1GjoJND44fjf93m-Cg=="
+ "dosya": "https://github.com/hedef500/lgs-kocluk/releases/download/v3.25/Hedef500.exe",
+ "sha256": "1b739c82e173fe5f62ab13674ee4612f56418da0ee2484c4b20b6e4c68ddf61f",
+ "boyut": 34354735,
+ "imza": "gEApqkksrHm1pEQYvXbBz3F9adAv-brhuX8_-9F-DIQscRoon7ZAN-tpDNVi4S1SWHKAQRIJQk-HYaUupYFKBw=="
 }
