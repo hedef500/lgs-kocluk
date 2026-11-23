@@ -1,8 +1,22 @@
 {
- "surum": "3.25",
+ "surum": "3.26",
  "tarih": "2026-11-23",
- "notlar": "• Çalışma Programı'nda görevlerin gün içindeki sırası değiştirilebilir: görevi seçip ▲ / ▼ düğmelerine (ya da Alt+↑ / Alt+↓) basın. Sıra ekranda ve bütün program PDF'lerinde aynen kullanılır; yeni eklenen görev günün sonuna, başka güne taşınan görev o günün sonuna eklenir.\n• Yanlışlıkla silinen görevler geri alınabilir: “Seçileni Sil” ya da “Haftayı Temizle”den sonra ↶ Geri Al düğmesi (ya da Ctrl+Z) son silineni tamamlandı işaretiyle ve sırasıyla geri getirir; art arda basınca daha önceki silmeler de döner. Program kapatılıp açılsa da 30 gün içinde geri alınabilir.\n• Yatay (A4) haftalık çizelge yenilendi: satırlar artık derslere göre (aynı ders her gün aynı satırda; satır sırasını haftanın ilk günündeki sıra belirler), görevlerin açıklamaları (öncelik nedeni ve sizin yazdığınız notlar) çizelgede yazılı, üst bant tek satıra indi ve çizelge mümkün olduğunca tek sayfaya sığdırılıyor (gerekirse yazı boyutu küçülür).\nYenilikler: Çalışma Programı'nda gün içi sıra (▲▼), silinen görevleri Geri Al (Ctrl+Z), ders hizalı ve açıklamalı tek sayfa haftalık çizelge.",
+ "notlar": "• Kazanım sorusu ve yeni nesil soru tek etkinlikte birleşti: “Soru çözümü”. Bir konu yine farklı günlerde çalışılır: 1. öncelikte konu çalışması → soru çözümü → soru çözümü, 2. öncelikte iki soru çözümü; konu iki soru çözümü yapılınca Tamamlandı olur. Eski programlardaki kazanım sorusu ve yeni nesil görevleri olduğu gibi kalır ve birer soru çözümü sayılır.\n• Otomatik programda soru sayısı öğrencinin seviyesine göre: etüt süresi yerine “Günlük soru hedefi” girilir (varsayılan 60), o günün soru çözümü etütlerine bölünür. Her derste seviye son 3 denemenin net yüzdesinden bulunur (%40 altı zayıf, %70 ve üstü iyi) ve soru sayısı koçun ayarladığı yüzdeyle çarpılır (varsayılan zayıf %80, orta %100, iyi %130). Tek öğrencide pencere öğrencinin ders seviyelerini gösterir.\n• Neti düşük derslerde video desteği: zayıf derste konu çalışması yerine “Video konu anlatımı”, son soru çözümünden önce “Video soru çözümü” verilir (Otomatik Program penceresinden kapatılabilir). İki etkinlik elle eklemede de seçilebilir.\n• Yeni günlük rutin: “Her gün sözel mantık ve görsel okuma” (Türkçe; varsayılan 5 soru, 15 dakika).\n• Yeni: Sürükle-bırak ile program (Çalışma Programı → Sürükle-Bırak…). Solda havuz (otomatik programın önerdiği konular sıradaki basamaklarıyla, tüm konular, rutinler, deneme analizi, serbest görev), sağda haftanın yedi günü: kartı bir güne bırakınca görev eklenir; panodaki kart başka güne ya da sıraya taşınır, çöpe bırakılınca silinir (↶ Geri Al ile geri gelir). Çift tık düzenler, sağ tık etkinliği değiştirir; günün soru sayıları günlük hedefe göre kendiliğinden bölünür.\n• Program haftası artık her öğrenci için seçilen günden başlayabilir (Otomatik Program → Program haftasının ilk günü; ör. Cumartesi–Cuma). Gün adları, PDF'ler, çizelge, toplu program, WhatsApp ve Ana Sayfa öğrencinin kendi haftasını kullanır. Programı olan hafta bitene kadar eski başlangıcıyla kalır.\n• Yeni: Çalışma Programı → Diğer ▾ → Rutin Ekle… Seçili haftanın işaretli günlerine hazır bir rutin ya da kendi yazdığınız bir rutin (ör. Matematik işlem pratiği) tek seferde eklenir; haftalık çizelgede Rutin satırında görünür.\n• Türkçe konu sırası MEB 2026-2027 çerçeve yıllık planlarına göre düzenlendi: yıl boyu işlenen Yazım Kuralları ve Noktalama İşaretleri dil bilgisi konularından önceye alındı (derse hazırlık konusu artık doğru bulunur). Konu sırasını kendiniz değiştirdiyseniz dokunulmaz. Diğer derslerin sırası resmî planlarla zaten aynı.\nYenilikler: tek Soru çözümü, seviyeye göre günlük soru hedefi, zayıf derste video, sözel mantık rutini, Rutin Ekle, sürükle-bırak program panosu, öğrenciye özel hafta başlangıcı, Türkçe konu sırası MEB planına göre.",
  "gecmis": [
+  {
+   "surum": "3.26",
+   "tarih": "2026-11-24",
+   "maddeler": [
+    "Kazanım sorusu ve yeni nesil soru tek etkinlikte birleşti: “Soru çözümü”. Bir konu yine farklı günlerde çalışılır: 1. öncelikte konu çalışması → soru çözümü → soru çözümü, 2. öncelikte iki soru çözümü; konu iki soru çözümü yapılınca Tamamlandı olur. Eski programlardaki kazanım sorusu ve yeni nesil görevleri olduğu gibi kalır ve birer soru çözümü sayılır.",
+    "Otomatik programda soru sayısı öğrencinin seviyesine göre: etüt süresi yerine “Günlük soru hedefi” girilir (varsayılan 60), o günün soru çözümü etütlerine bölünür. Her derste seviye son 3 denemenin net yüzdesinden bulunur (%40 altı zayıf, %70 ve üstü iyi) ve soru sayısı koçun ayarladığı yüzdeyle çarpılır (varsayılan zayıf %80, orta %100, iyi %130). Tek öğrencide pencere öğrencinin ders seviyelerini gösterir.",
+    "Neti düşük derslerde video desteği: zayıf derste konu çalışması yerine “Video konu anlatımı”, son soru çözümünden önce “Video soru çözümü” verilir (Otomatik Program penceresinden kapatılabilir). İki etkinlik elle eklemede de seçilebilir.",
+    "Yeni günlük rutin: “Her gün sözel mantık ve görsel okuma” (Türkçe; varsayılan 5 soru, 15 dakika).",
+    "Yeni: Sürükle-bırak ile program (Çalışma Programı → Sürükle-Bırak…). Solda havuz (otomatik programın önerdiği konular sıradaki basamaklarıyla, tüm konular, rutinler, deneme analizi, serbest görev), sağda haftanın yedi günü: kartı bir güne bırakınca görev eklenir; panodaki kart başka güne ya da sıraya taşınır, çöpe bırakılınca silinir (↶ Geri Al ile geri gelir). Çift tık düzenler, sağ tık etkinliği değiştirir; günün soru sayıları günlük hedefe göre kendiliğinden bölünür.",
+    "Program haftası artık her öğrenci için seçilen günden başlayabilir (Otomatik Program → Program haftasının ilk günü; ör. Cumartesi–Cuma). Gün adları, PDF'ler, çizelge, toplu program, WhatsApp ve Ana Sayfa öğrencinin kendi haftasını kullanır. Programı olan hafta bitene kadar eski başlangıcıyla kalır.",
+    "Yeni: Çalışma Programı → Diğer ▾ → Rutin Ekle… Seçili haftanın işaretli günlerine hazır bir rutin ya da kendi yazdığınız bir rutin (ör. Matematik işlem pratiği) tek seferde eklenir; haftalık çizelgede Rutin satırında görünür.",
+    "Türkçe konu sırası MEB 2026-2027 çerçeve yıllık planlarına göre düzenlendi: yıl boyu işlenen Yazım Kuralları ve Noktalama İşaretleri dil bilgisi konularından önceye alındı (derse hazırlık konusu artık doğru bulunur). Konu sırasını kendiniz değiştirdiyseniz dokunulmaz. Diğer derslerin sırası resmî planlarla zaten aynı."
+   ]
+  },
   {
    "surum": "3.25",
    "tarih": "2026-11-23",
@@ -229,8 +243,8 @@
    ]
   }
  ],
- "dosya": "https://github.com/hedef500/lgs-kocluk/releases/download/v3.25/Hedef500.exe",
- "sha256": "1b739c82e173fe5f62ab13674ee4612f56418da0ee2484c4b20b6e4c68ddf61f",
- "boyut": 34354735,
- "imza": "gEApqkksrHm1pEQYvXbBz3F9adAv-brhuX8_-9F-DIQscRoon7ZAN-tpDNVi4S1SWHKAQRIJQk-HYaUupYFKBw=="
+ "dosya": "https://github.com/hedef500/lgs-kocluk/releases/download/v3.26/Hedef500.exe",
+ "sha256": "2463be550321a3f57611f2cefd8aca112240162fb854d475b701140b8b33c66f",
+ "boyut": 34461086,
+ "imza": "NnSMZQix7wwikQv2KuTT5w04nCTov4vR_lbm-4wuKAfubfBY77WXmpBGbHHNGHLTpJwbV679gumfUh09KhOvDg=="
 }
