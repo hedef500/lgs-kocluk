@@ -1,8 +1,16 @@
 {
- "surum": "3.27",
+ "surum": "3.28",
  "tarih": "2026-11-23",
- "notlar": "• Günlük soru hedefi kaldırıldı: her soru çözümü etüdü öğrencinin o dersteki seviyesine göre sabit sayıda soru alır (Otomatik Program → “Bir soru etüdünde soru”: zayıf 15, orta 20, iyi 25; değiştirilebilir). Bir güne az etüt düştüğünde soru sayısı artık şişmez, hedefe ulaşmak için ek soru konmaz. Sürükle-bırakta da aynı kural geçerli; kart taşımak ya da silmek diğer görevlerin soru sayısını değiştirmez.\n• Sürükle-Bırak'ta sürüklenen konu havuzdan kalkmaz; aynı konu birden fazla eklenebilir. Basamakları bu haftaya konmuş konu ek soru çözümü olarak gelir.\n• Sürükle-Bırak panosunun üstünde “Haftanın ilk günü” seçimi: öğrencinin haftasının başlangıç günü buradan da değiştirilir (programı olan hafta bitene kadar eski başlangıcıyla kalır).\n• Programın yazdığı gerekçeler (ör. “1. öncelik • son 3 denemede 2 hata”, deneme analizi ve rutin açıklamaları) artık sizin yazdığınız açıklamalardan ayrı tutulur. Gerekçeleri programın ekranında görmeye devam edersiniz; öğrenciye ve veliye giden program PDF'lerine varsayılan olarak yalnızca sizin açıklamalarınız yazılır. Gerekçelerin PDF'te de görünmesini isterseniz: Ayarlar → “Program PDF'lerinde programın yazdığı gerekçeleri de göster”. Mevcut programlardaki gerekçeler bir kez ayrılır; sizin notlarınız açıklamada kalır.\n• Sürükle-Bırak havuzunda otomatik programın bütün bilgileri: üstte öğrencinin ders seviyeleri, bir soru etüdündeki soru sayıları ve video desteği; Tüm konular kartlarında konunun durumu, önceliği ve nedeni, okulda işlenip işlenmediği.\n• Havuza etkinlik seçici eklendi: “Sıradaki basamak (otomatik)” her konuyu otomatik programın vereceği basamakla getirir; Konu çalışması, Soru çözümü, Video konu anlatımı ya da Video soru çözümü seçilince bütün konular o etkinlikle gelir ve istenen güne sürüklenir.\nYenilikler: günlük soru hedefi kaldırıldı (seviyeye göre sabit soru), programın gerekçeleri PDF'te gizli (seçenek), sürükle-bırakta etkinlik seçici, ilk gün seçimi ve sınırsız ekleme.",
+ "notlar": "• Sürükle-Bırak havuzunda okulda henüz işlenmemiş konular turuncu zeminli kartla gösterilir.\n• Sürükle-Bırak'ta bir güne zaten olan bir etkinlik (konuya bağlıysa aynı konunun aynı etkinliği) yeniden bırakılır ya da oraya taşınırsa uyarı çıkar; onaylarsanız yine eklenir.\nYenilikler: sürükle-bırakta okulda işlenmemiş konular turuncu; aynı güne aynı etkinlik uyarısı.",
  "gecmis": [
+  {
+   "surum": "3.28",
+   "tarih": "2026-11-24",
+   "maddeler": [
+    "Sürükle-Bırak havuzunda okulda henüz işlenmemiş konular turuncu zeminli kartla gösterilir.",
+    "Sürükle-Bırak'ta bir güne zaten olan bir etkinlik (konuya bağlıysa aynı konunun aynı etkinliği) yeniden bırakılır ya da oraya taşınırsa uyarı çıkar; onaylarsanız yine eklenir."
+   ]
+  },
   {
    "surum": "3.27",
    "tarih": "2026-11-24",
@@ -255,8 +263,8 @@
    ]
   }
  ],
- "dosya": "https://github.com/hedef500/lgs-kocluk/releases/download/v3.27/Hedef500.exe",
- "sha256": "f7ee65ca09367061baa5f9062e1a7ac49a1fc3a1c85170b12fda348a3096542b",
- "boyut": 34428972,
- "imza": "QHgkyuGywmMIIpzsYhYUaU1L__m6swpuhN22M2x-2IsQLmWS9qSLJ3-iuXLaGPjXd99cC_fcPbsaYkXqWVzhAw=="
+ "dosya": "https://github.com/hedef500/lgs-kocluk/releases/download/v3.28/Hedef500.exe",
+ "sha256": "660d7c82d6e128eac054bd685a7b1ed7daf5bf94121f101e46f8634ed86e709e",
+ "boyut": 34430810,
+ "imza": "hYxynCqgxsm578YHyVr73ps7XSfWST3Mok-q-vLDqlCm92DNRmcZsn3gBLuQoiVv7klZQkZyyhdA9gKpjCJBAw=="
 }
