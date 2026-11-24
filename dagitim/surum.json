@@ -1,8 +1,20 @@
 {
- "surum": "3.28",
- "tarih": "2026-11-23",
- "notlar": "• Sürükle-Bırak havuzunda okulda henüz işlenmemiş konular turuncu zeminli kartla gösterilir.\n• Sürükle-Bırak'ta bir güne zaten olan bir etkinlik (konuya bağlıysa aynı konunun aynı etkinliği) yeniden bırakılır ya da oraya taşınırsa uyarı çıkar; onaylarsanız yine eklenir.\nYenilikler: sürükle-bırakta okulda işlenmemiş konular turuncu; aynı güne aynı etkinlik uyarısı.",
+ "surum": "3.29",
+ "tarih": "2026-11-24",
+ "notlar": "• Sürükle-Bırak panosu dersler × günler tablosu oldu: satırlar dersler (ve Genel, Rutin), sütunlar günler; kartı bir dersin satırında istediğiniz güne bırakırsınız, hangi güne hangi dersi verdiğiniz tek bakışta görünür. Aynı günün aynı dersten görevleri aynı hücrede durur.\n• Panoda hafta sonu sütunları farklı zeminli, havuzdaki Önerilenler yeşil kutuda, Tüm konular derslere göre bölümlü; görevler sığmayınca pano kaydırılır. Üstte haftanın toplam görev, soru ve süresi yazar.\n• Soru sayısı ve süre gösterimi için seçenek: Ayarlar → “Program PDF'lerinde ve sürükle-bırak panosunda göster: Soru sayıları / Süreler (dk)” (panonun üstünde de hızlı aç / kapat).\n• Yatay haftalık çizelgede her ders tek satırda: aynı gün aynı dersten birden çok görev aynı hücrede alt alta yazılır; Cumartesi ve Pazar sütunları farklı zeminli.\n• Yeni: Bir haftanın programını tüm ayrıntılarıyla başka öğrencilere kopyalama (Sürükle-Bırak → Başka Öğrenciye Kopyala… ya da Çalışma Programı → Diğer ▾). İsterseniz öğrencinin o haftadaki programı yerine konur ve program ayarları da kopyalanır.\n• Raporların alt bilgisinde Hedef500 logosu ve web adresi (hedef500.tr).\nYenilikler: sürükle-bırak panosu dersler × günler tablosu, hafta sonu renkleri, kaydırma ve haftalık toplam soru; soru/dk gösterim seçeneği; çizelgede her ders tek satır; programı başka öğrencilere kopyalama; raporlarda logo ve web adresi.",
  "gecmis": [
+  {
+   "surum": "3.29",
+   "tarih": "2026-11-24",
+   "maddeler": [
+    "Sürükle-Bırak panosu dersler × günler tablosu oldu: satırlar dersler (ve Genel, Rutin), sütunlar günler; kartı bir dersin satırında istediğiniz güne bırakırsınız, hangi güne hangi dersi verdiğiniz tek bakışta görünür. Aynı günün aynı dersten görevleri aynı hücrede durur.",
+    "Panoda hafta sonu sütunları farklı zeminli, havuzdaki Önerilenler yeşil kutuda, Tüm konular derslere göre bölümlü; görevler sığmayınca pano kaydırılır. Üstte haftanın toplam görev, soru ve süresi yazar.",
+    "Soru sayısı ve süre gösterimi için seçenek: Ayarlar → “Program PDF'lerinde ve sürükle-bırak panosunda göster: Soru sayıları / Süreler (dk)” (panonun üstünde de hızlı aç / kapat).",
+    "Yatay haftalık çizelgede her ders tek satırda: aynı gün aynı dersten birden çok görev aynı hücrede alt alta yazılır; Cumartesi ve Pazar sütunları farklı zeminli.",
+    "Yeni: Bir haftanın programını tüm ayrıntılarıyla başka öğrencilere kopyalama (Sürükle-Bırak → Başka Öğrenciye Kopyala… ya da Çalışma Programı → Diğer ▾). İsterseniz öğrencinin o haftadaki programı yerine konur ve program ayarları da kopyalanır.",
+    "Raporların alt bilgisinde Hedef500 logosu ve web adresi (hedef500.tr)."
+   ]
+  },
   {
    "surum": "3.28",
    "tarih": "2026-11-24",
@@ -263,8 +275,8 @@
    ]
   }
  ],
- "dosya": "https://github.com/hedef500/lgs-kocluk/releases/download/v3.28/Hedef500.exe",
- "sha256": "660d7c82d6e128eac054bd685a7b1ed7daf5bf94121f101e46f8634ed86e709e",
- "boyut": 34430810,
- "imza": "hYxynCqgxsm578YHyVr73ps7XSfWST3Mok-q-vLDqlCm92DNRmcZsn3gBLuQoiVv7klZQkZyyhdA9gKpjCJBAw=="
+ "dosya": "https://github.com/hedef500/lgs-kocluk/releases/download/v3.29/Hedef500.exe",
+ "sha256": "23a2956f6979ae3b9fa24dc85229229c6bf4d2d428a27d6f5551c77f577e4969",
+ "boyut": 34493350,
+ "imza": "2EDOrIfa7CJVomTqX89MvLLNJegS_K1A2BQNFE-PZ11OxyHmm0q32_kzVyAkPz2f46zctY_bOYKfIJU_UuU9Bg=="
 }
