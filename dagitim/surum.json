@@ -1,8 +1,21 @@
 {
- "surum": "3.30",
+ "surum": "3.31",
  "tarih": "2026-11-25",
- "notlar": "• Okulda işlenen konular artık MEB 2026-2027 çerçeve yıllık planlarına göre tarihe göre kendiliğinden izleniyor: konunun okulda başlama haftası gelince konu “işlendi” sayılır. Okulunuz farklı gidiyorsa Ayarlar → İşlenen Konuları Seç… penceresinden konunun tarihini düzeltin ya da o dersi “Elle işaretle” yapın (bir konunun kutusuna tıklamak dersi kendiliğinden elle işaretlemeye geçirir). Konu Takibi'nde yeni “Okulda” sütunu.\n• Öğrenci listesinde iki yeni sütun: Plan (bu haftanın programı hazır mı) ve Rapor (bu hafta veliye WhatsApp'tan gönderildi mi). Başlığa tıklayınca eksikler üste gelir; üzerine gelince ayrıntı görünür.\n• Gelişim raporunda “Ders Ders Deneme Değerlendirmesi”: her ders için denemelerin doğru, yanlış, boş ve net sayıları ile o derse özel kısa değerlendirme.\n• Yatay haftalık çizelgede gün adının yanında tarih, altında o günün toplam süresi ve soru sayısı (Ayarlar'daki gösterim seçeneğine göre). Dikey listede de tarih ve günlük soru yazar.\n• Çalışma Programı sekmesi yeniden düzenlendi: hafta işlemleri üstte, “Programı hazırla” düğmeleri ayrı satırda, haftanın özeti kendi satırında, seçili göreve ait işlemler altta. Görev ekleyip silince liste artık başa kaymıyor.\n• Sağ üstteki PDF düğmesi açık sekmeye göre adlandırılıyor: Çalışma Programı sekmesinde “Çalışma Programı (PDF)”, diğer sekmelerde “Gelişim Raporu (PDF)”.\n• Sürükle-Bırak panosunda gün başlıkları sabit: pano aşağı kaydırılsa da hep üstte kalıyor.\n• WhatsApp ile gönderimde varsayılan içerik haftalık çalışma programı; “Atla” denen öğrenci sıra dönerken yeniden açılmıyor; sırayla gönderimi kesmek için “■ Durdur”; Hazırla / Gönderildi düğmeleri pencerenin altında sabit.\nYenilikler: okulda işlenen konular MEB yıllık planına göre tarihe göre izleniyor; öğrenci listesinde Plan / Rapor sütunları; gelişim raporunda ders ders D/Y/B/net ve değerlendirme; çizelgede gün tarihi ve günlük toplamlar; WhatsApp'ta Atla düzeltmesi, Durdur ve sabit düğmeler; daha anlaşılır Çalışma Programı sekmesi.",
+ "notlar": "• Öğrenci listesindeki Plan / Rapor sütunları artık Çalışma Programı sekmesinde gösterilen haftaya bakıyor (listenin üstünde hangi hafta olduğu yazar). Haftayı değiştirince sütunlar da değişir: örneğin gelecek haftaya geçip kimin programının henüz hazırlanmadığını görebilirsiniz.\n• Rapor sütununda gönderilen çalışma programı kendi haftasına sayılıyor: Pazar akşamı gönderdiğiniz yeni haftanın programı yeni haftada ✓ olur.\n• Sınıfa Toplu Program düğmesi sol alttaki Toplu İşlemler ▾ menüsüne taşındı (Çalışma Programı → Diğer ▾ menüsünde de var).\n• Haftanın ilk günü artık Çalışma Programı sekmesinde görünür bir yerde (“Hafta başı”); Otomatik Program ve Sürükle-Bırak panosu aynı ayarı kullanır. Değiştirince “Şimdi Uygula” (görevler tarihlerinde kalır, hafta hemen yeni günden başlar) ya da “Bu Hafta Bitince” seçilebilir.\n• Düzeltme: Otomatik Program'da “mevcut programı silip yeniden oluştur” seçiliyken haftanın ilk günü değiştirilince program eski haftanın başlangıcından devam ediyordu; artık hafta yeni günden başlar ve üzerine yazılan program ↶ Geri Al ile geri gelir.\n• Çalışma Programı'nda görev seçili değilken Tamamlandı, Düzenle, ▲ ▼ ve Sil düğmeleri soluk görünür.\n• Sürükle-Bırak panosunda önerilen görev kartlarının zemini yeşil.\nYenilikler: Plan / Rapor sütunları seçili haftayı izliyor; haftanın ilk günü Çalışma Programı'nda görünür ve hemen uygulanabiliyor (otomatik programda üzerine yazma düzeltmesi); Sınıfa Toplu Program Toplu İşlemler menüsünde; görev seçilmeden görev düğmeleri pasif; panoda önerilen kartlar yeşil.",
  "gecmis": [
+  {
+   "surum": "3.31",
+   "tarih": "2026-11-25",
+   "maddeler": [
+    "Öğrenci listesindeki Plan / Rapor sütunları artık Çalışma Programı sekmesinde gösterilen haftaya bakıyor (listenin üstünde hangi hafta olduğu yazar). Haftayı değiştirince sütunlar da değişir: örneğin gelecek haftaya geçip kimin programının henüz hazırlanmadığını görebilirsiniz.",
+    "Rapor sütununda gönderilen çalışma programı kendi haftasına sayılıyor: Pazar akşamı gönderdiğiniz yeni haftanın programı yeni haftada ✓ olur.",
+    "Sınıfa Toplu Program düğmesi sol alttaki Toplu İşlemler ▾ menüsüne taşındı (Çalışma Programı → Diğer ▾ menüsünde de var).",
+    "Haftanın ilk günü artık Çalışma Programı sekmesinde görünür bir yerde (“Hafta başı”); Otomatik Program ve Sürükle-Bırak panosu aynı ayarı kullanır. Değiştirince “Şimdi Uygula” (görevler tarihlerinde kalır, hafta hemen yeni günden başlar) ya da “Bu Hafta Bitince” seçilebilir.",
+    "Düzeltme: Otomatik Program'da “mevcut programı silip yeniden oluştur” seçiliyken haftanın ilk günü değiştirilince program eski haftanın başlangıcından devam ediyordu; artık hafta yeni günden başlar ve üzerine yazılan program ↶ Geri Al ile geri gelir.",
+    "Çalışma Programı'nda görev seçili değilken Tamamlandı, Düzenle, ▲ ▼ ve Sil düğmeleri soluk görünür.",
+    "Sürükle-Bırak panosunda önerilen görev kartlarının zemini yeşil."
+   ]
+  },
   {
    "surum": "3.30",
    "tarih": "2026-11-25",
@@ -289,8 +302,8 @@
    ]
   }
  ],
- "dosya": "https://github.com/hedef500/lgs-kocluk/releases/download/v3.30/Hedef500.exe",
- "sha256": "347cc5a3ed434c778adde82c400de24e8ba8788f335dc72199b2495462ccd577",
- "boyut": 34495079,
- "imza": "INA_Ew9JdAlnrGiTpIey6JNn9xno4t_S6wpHE-cskFX9Jc7d_cBWWYU5RKhxyAWZl0leGfcI8Zxx2vyvYP4BAQ=="
+ "dosya": "https://github.com/hedef500/lgs-kocluk/releases/download/v3.31/Hedef500.exe",
+ "sha256": "08787c9610bad5f1b44f0953992484c75f78444c27e42f33cda9d460e4acf818",
+ "boyut": 34513269,
+ "imza": "NhI5zSJhdTQlu-JPMckEn_xFkVJT3hXO95rQgK9ba6PQMwubp-akdxcH3oaZrJO0Nv9a6kcyXv5m71xnNm44BA=="
 }
