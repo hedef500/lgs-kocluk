@@ -1,8 +1,22 @@
 {
- "surum": "3.29",
- "tarih": "2026-11-24",
- "notlar": "• Sürükle-Bırak panosu dersler × günler tablosu oldu: satırlar dersler (ve Genel, Rutin), sütunlar günler; kartı bir dersin satırında istediğiniz güne bırakırsınız, hangi güne hangi dersi verdiğiniz tek bakışta görünür. Aynı günün aynı dersten görevleri aynı hücrede durur.\n• Panoda hafta sonu sütunları farklı zeminli, havuzdaki Önerilenler yeşil kutuda, Tüm konular derslere göre bölümlü; görevler sığmayınca pano kaydırılır. Üstte haftanın toplam görev, soru ve süresi yazar.\n• Soru sayısı ve süre gösterimi için seçenek: Ayarlar → “Program PDF'lerinde ve sürükle-bırak panosunda göster: Soru sayıları / Süreler (dk)” (panonun üstünde de hızlı aç / kapat).\n• Yatay haftalık çizelgede her ders tek satırda: aynı gün aynı dersten birden çok görev aynı hücrede alt alta yazılır; Cumartesi ve Pazar sütunları farklı zeminli.\n• Yeni: Bir haftanın programını tüm ayrıntılarıyla başka öğrencilere kopyalama (Sürükle-Bırak → Başka Öğrenciye Kopyala… ya da Çalışma Programı → Diğer ▾). İsterseniz öğrencinin o haftadaki programı yerine konur ve program ayarları da kopyalanır.\n• Raporların alt bilgisinde Hedef500 logosu ve web adresi (hedef500.tr).\nYenilikler: sürükle-bırak panosu dersler × günler tablosu, hafta sonu renkleri, kaydırma ve haftalık toplam soru; soru/dk gösterim seçeneği; çizelgede her ders tek satır; programı başka öğrencilere kopyalama; raporlarda logo ve web adresi.",
+ "surum": "3.30",
+ "tarih": "2026-11-25",
+ "notlar": "• Okulda işlenen konular artık MEB 2026-2027 çerçeve yıllık planlarına göre tarihe göre kendiliğinden izleniyor: konunun okulda başlama haftası gelince konu “işlendi” sayılır. Okulunuz farklı gidiyorsa Ayarlar → İşlenen Konuları Seç… penceresinden konunun tarihini düzeltin ya da o dersi “Elle işaretle” yapın (bir konunun kutusuna tıklamak dersi kendiliğinden elle işaretlemeye geçirir). Konu Takibi'nde yeni “Okulda” sütunu.\n• Öğrenci listesinde iki yeni sütun: Plan (bu haftanın programı hazır mı) ve Rapor (bu hafta veliye WhatsApp'tan gönderildi mi). Başlığa tıklayınca eksikler üste gelir; üzerine gelince ayrıntı görünür.\n• Gelişim raporunda “Ders Ders Deneme Değerlendirmesi”: her ders için denemelerin doğru, yanlış, boş ve net sayıları ile o derse özel kısa değerlendirme.\n• Yatay haftalık çizelgede gün adının yanında tarih, altında o günün toplam süresi ve soru sayısı (Ayarlar'daki gösterim seçeneğine göre). Dikey listede de tarih ve günlük soru yazar.\n• Çalışma Programı sekmesi yeniden düzenlendi: hafta işlemleri üstte, “Programı hazırla” düğmeleri ayrı satırda, haftanın özeti kendi satırında, seçili göreve ait işlemler altta. Görev ekleyip silince liste artık başa kaymıyor.\n• Sağ üstteki PDF düğmesi açık sekmeye göre adlandırılıyor: Çalışma Programı sekmesinde “Çalışma Programı (PDF)”, diğer sekmelerde “Gelişim Raporu (PDF)”.\n• Sürükle-Bırak panosunda gün başlıkları sabit: pano aşağı kaydırılsa da hep üstte kalıyor.\n• WhatsApp ile gönderimde varsayılan içerik haftalık çalışma programı; “Atla” denen öğrenci sıra dönerken yeniden açılmıyor; sırayla gönderimi kesmek için “■ Durdur”; Hazırla / Gönderildi düğmeleri pencerenin altında sabit.\nYenilikler: okulda işlenen konular MEB yıllık planına göre tarihe göre izleniyor; öğrenci listesinde Plan / Rapor sütunları; gelişim raporunda ders ders D/Y/B/net ve değerlendirme; çizelgede gün tarihi ve günlük toplamlar; WhatsApp'ta Atla düzeltmesi, Durdur ve sabit düğmeler; daha anlaşılır Çalışma Programı sekmesi.",
  "gecmis": [
+  {
+   "surum": "3.30",
+   "tarih": "2026-11-25",
+   "maddeler": [
+    "Okulda işlenen konular artık MEB 2026-2027 çerçeve yıllık planlarına göre tarihe göre kendiliğinden izleniyor: konunun okulda başlama haftası gelince konu “işlendi” sayılır. Okulunuz farklı gidiyorsa Ayarlar → İşlenen Konuları Seç… penceresinden konunun tarihini düzeltin ya da o dersi “Elle işaretle” yapın (bir konunun kutusuna tıklamak dersi kendiliğinden elle işaretlemeye geçirir). Konu Takibi'nde yeni “Okulda” sütunu.",
+    "Öğrenci listesinde iki yeni sütun: Plan (bu haftanın programı hazır mı) ve Rapor (bu hafta veliye WhatsApp'tan gönderildi mi). Başlığa tıklayınca eksikler üste gelir; üzerine gelince ayrıntı görünür.",
+    "Gelişim raporunda “Ders Ders Deneme Değerlendirmesi”: her ders için denemelerin doğru, yanlış, boş ve net sayıları ile o derse özel kısa değerlendirme.",
+    "Yatay haftalık çizelgede gün adının yanında tarih, altında o günün toplam süresi ve soru sayısı (Ayarlar'daki gösterim seçeneğine göre). Dikey listede de tarih ve günlük soru yazar.",
+    "Çalışma Programı sekmesi yeniden düzenlendi: hafta işlemleri üstte, “Programı hazırla” düğmeleri ayrı satırda, haftanın özeti kendi satırında, seçili göreve ait işlemler altta. Görev ekleyip silince liste artık başa kaymıyor.",
+    "Sağ üstteki PDF düğmesi açık sekmeye göre adlandırılıyor: Çalışma Programı sekmesinde “Çalışma Programı (PDF)”, diğer sekmelerde “Gelişim Raporu (PDF)”.",
+    "Sürükle-Bırak panosunda gün başlıkları sabit: pano aşağı kaydırılsa da hep üstte kalıyor.",
+    "WhatsApp ile gönderimde varsayılan içerik haftalık çalışma programı; “Atla” denen öğrenci sıra dönerken yeniden açılmıyor; sırayla gönderimi kesmek için “■ Durdur”; Hazırla / Gönderildi düğmeleri pencerenin altında sabit."
+   ]
+  },
   {
    "surum": "3.29",
    "tarih": "2026-11-24",
@@ -275,8 +289,8 @@
    ]
   }
  ],
- "dosya": "https://github.com/hedef500/lgs-kocluk/releases/download/v3.29/Hedef500.exe",
- "sha256": "23a2956f6979ae3b9fa24dc85229229c6bf4d2d428a27d6f5551c77f577e4969",
- "boyut": 34493350,
- "imza": "2EDOrIfa7CJVomTqX89MvLLNJegS_K1A2BQNFE-PZ11OxyHmm0q32_kzVyAkPz2f46zctY_bOYKfIJU_UuU9Bg=="
+ "dosya": "https://github.com/hedef500/lgs-kocluk/releases/download/v3.30/Hedef500.exe",
+ "sha256": "347cc5a3ed434c778adde82c400de24e8ba8788f335dc72199b2495462ccd577",
+ "boyut": 34495079,
+ "imza": "INA_Ew9JdAlnrGiTpIey6JNn9xno4t_S6wpHE-cskFX9Jc7d_cBWWYU5RKhxyAWZl0leGfcI8Zxx2vyvYP4BAQ=="
 }
