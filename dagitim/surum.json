@@ -1,8 +1,18 @@
 {
- "surum": "3.32",
+ "surum": "3.33",
  "tarih": "2026-11-25",
- "notlar": "• Yeni: Görüşmeye Hazırlık (Görüşmeler sekmesi). Son görüşmeden bu yana denemeler ve net değişimi, programa uyum, tekrar gereken ve tamamlanan konular, geçen görüşmenin kararları ve önerilen gündem tek sayfada; “Görüşme Kaydı Ekle…” gündemi görüşme kaydına yazar.\n• Yeni: Ana Sayfa'da erken uyarı (Dikkat). Net düşüşü, görüşme günü gelmesi, iki hafta üst üste düşük program uyumu, son iki denemeye girmeme ya da üç haftadır programı olmama durumundaki öğrenciler nedenleriyle tek listede.\n• Sürükle-Bırak panosuna “Haftayı Temizle” düğmesi: gösterilen haftanın bütün programını siler (onay ister; ↶ Geri Al ile geri gelir).\nYenilikler: Görüşmeye Hazırlık (son görüşmeden bu yana özet ve önerilen gündem); Ana Sayfa'da erken uyarı listesi (Dikkat); sürükle-bırak panosunda Haftayı Temizle.",
+ "notlar": "• Yeni: Bilgi pencerelerinde “Dışa Aktar ▾” — listeyi Excel'e ya da PDF'e kaydedin (Ana Sayfa listeleri, Görüşmeye Hazırlık, Denemeler ve Konu Takibi sekmeleri, Eksik Bilgiler, Mükerrer Kayıtlar, Denemeleri Yönet, Konu Etüt Grupları, Haftalık İşaretleme).\n• Yeni: Haftalık İşaretleme (Toplu İşlemler ▾). Sınıfın öğrencileri × haftanın günleri; hücreye tıklayarak o günün bütün görevlerini ✓ / ½ / ✗ işaretleyin. Öğrenciler kâğıt çizelgeyi getirdiğinde sınıf birkaç dakikada işlenir.\n• Yeni: LGS tekrar dönemi (Otomatik Program). LGS'ye 8 hafta kala kendiliğinden işaretli gelir: tamamlanan konular da sırayla genel tekrara girer, haftaya iki deneme sınavı (gerçek süreyle) ve ertesi gün analizi eklenir.\n• Yeni: WhatsApp ile veliye “Kısa aylık özet (yalnız metin)”: son 30 günün net değişimi, programa uyum, en çok gelişen ders ve odaklanılacak konu 4-6 satırlık mesaj olarak; dosya eklenmez.\nYenilikler: bilgi pencerelerinde Dışa Aktar (Excel / PDF); Haftalık İşaretleme (sınıf × gün, ✓ / ½ / ✗); LGS tekrar dönemi (son 8 hafta genel tekrar ve haftada 2 deneme); WhatsApp ile veliye kısa aylık özet.",
  "gecmis": [
+  {
+   "surum": "3.33",
+   "tarih": "2026-11-25",
+   "maddeler": [
+    "Yeni: Bilgi pencerelerinde “Dışa Aktar ▾” — listeyi Excel'e ya da PDF'e kaydedin (Ana Sayfa listeleri, Görüşmeye Hazırlık, Denemeler ve Konu Takibi sekmeleri, Eksik Bilgiler, Mükerrer Kayıtlar, Denemeleri Yönet, Konu Etüt Grupları, Haftalık İşaretleme).",
+    "Yeni: Haftalık İşaretleme (Toplu İşlemler ▾). Sınıfın öğrencileri × haftanın günleri; hücreye tıklayarak o günün bütün görevlerini ✓ / ½ / ✗ işaretleyin. Öğrenciler kâğıt çizelgeyi getirdiğinde sınıf birkaç dakikada işlenir.",
+    "Yeni: LGS tekrar dönemi (Otomatik Program). LGS'ye 8 hafta kala kendiliğinden işaretli gelir: tamamlanan konular da sırayla genel tekrara girer, haftaya iki deneme sınavı (gerçek süreyle) ve ertesi gün analizi eklenir.",
+    "Yeni: WhatsApp ile veliye “Kısa aylık özet (yalnız metin)”: son 30 günün net değişimi, programa uyum, en çok gelişen ders ve odaklanılacak konu 4-6 satırlık mesaj olarak; dosya eklenmez."
+   ]
+  },
   {
    "surum": "3.32",
    "tarih": "2026-11-25",
@@ -311,8 +321,8 @@
    ]
   }
  ],
- "dosya": "https://github.com/hedef500/lgs-kocluk/releases/download/v3.32/Hedef500.exe",
- "sha256": "ec8074c5ce96e3d2d25fea74e2c385d673928401395e7e67538f837115edad13",
- "boyut": 34533467,
- "imza": "OwCVertTU0d4BOkD6LyidYwfRFfHtp3akWjSy_PQefFz383t0FFswzo1eLdkdSzWAApFf5nPv6e-oZReuobdAw=="
+ "dosya": "https://github.com/hedef500/lgs-kocluk/releases/download/v3.33/Hedef500.exe",
+ "sha256": "6b945795e4010b7bc86953e4c1ec30db31be2a5af96c2fe7384d3e4b4dceb516",
+ "boyut": 34567830,
+ "imza": "_wQ5TtCjUGMObI4mguyLd-heFrlyUuZhMEEvRxWRtUNCE4sdjP1ZEbv0Q6-BkwvQKijYkMGVjCA25cxdih6HCw=="
 }
