@@ -1,8 +1,17 @@
 {
- "surum": "3.31",
+ "surum": "3.32",
  "tarih": "2026-11-25",
- "notlar": "• Öğrenci listesindeki Plan / Rapor sütunları artık Çalışma Programı sekmesinde gösterilen haftaya bakıyor (listenin üstünde hangi hafta olduğu yazar). Haftayı değiştirince sütunlar da değişir: örneğin gelecek haftaya geçip kimin programının henüz hazırlanmadığını görebilirsiniz.\n• Rapor sütununda gönderilen çalışma programı kendi haftasına sayılıyor: Pazar akşamı gönderdiğiniz yeni haftanın programı yeni haftada ✓ olur.\n• Sınıfa Toplu Program düğmesi sol alttaki Toplu İşlemler ▾ menüsüne taşındı (Çalışma Programı → Diğer ▾ menüsünde de var).\n• Haftanın ilk günü artık Çalışma Programı sekmesinde görünür bir yerde (“Hafta başı”); Otomatik Program ve Sürükle-Bırak panosu aynı ayarı kullanır. Değiştirince “Şimdi Uygula” (görevler tarihlerinde kalır, hafta hemen yeni günden başlar) ya da “Bu Hafta Bitince” seçilebilir.\n• Düzeltme: Otomatik Program'da “mevcut programı silip yeniden oluştur” seçiliyken haftanın ilk günü değiştirilince program eski haftanın başlangıcından devam ediyordu; artık hafta yeni günden başlar ve üzerine yazılan program ↶ Geri Al ile geri gelir.\n• Çalışma Programı'nda görev seçili değilken Tamamlandı, Düzenle, ▲ ▼ ve Sil düğmeleri soluk görünür.\n• Sürükle-Bırak panosunda önerilen görev kartlarının zemini yeşil.\nYenilikler: Plan / Rapor sütunları seçili haftayı izliyor; haftanın ilk günü Çalışma Programı'nda görünür ve hemen uygulanabiliyor (otomatik programda üzerine yazma düzeltmesi); Sınıfa Toplu Program Toplu İşlemler menüsünde; görev seçilmeden görev düğmeleri pasif; panoda önerilen kartlar yeşil.",
+ "notlar": "• Yeni: Görüşmeye Hazırlık (Görüşmeler sekmesi). Son görüşmeden bu yana denemeler ve net değişimi, programa uyum, tekrar gereken ve tamamlanan konular, geçen görüşmenin kararları ve önerilen gündem tek sayfada; “Görüşme Kaydı Ekle…” gündemi görüşme kaydına yazar.\n• Yeni: Ana Sayfa'da erken uyarı (Dikkat). Net düşüşü, görüşme günü gelmesi, iki hafta üst üste düşük program uyumu, son iki denemeye girmeme ya da üç haftadır programı olmama durumundaki öğrenciler nedenleriyle tek listede.\n• Sürükle-Bırak panosuna “Haftayı Temizle” düğmesi: gösterilen haftanın bütün programını siler (onay ister; ↶ Geri Al ile geri gelir).\nYenilikler: Görüşmeye Hazırlık (son görüşmeden bu yana özet ve önerilen gündem); Ana Sayfa'da erken uyarı listesi (Dikkat); sürükle-bırak panosunda Haftayı Temizle.",
  "gecmis": [
+  {
+   "surum": "3.32",
+   "tarih": "2026-11-25",
+   "maddeler": [
+    "Yeni: Görüşmeye Hazırlık (Görüşmeler sekmesi). Son görüşmeden bu yana denemeler ve net değişimi, programa uyum, tekrar gereken ve tamamlanan konular, geçen görüşmenin kararları ve önerilen gündem tek sayfada; “Görüşme Kaydı Ekle…” gündemi görüşme kaydına yazar.",
+    "Yeni: Ana Sayfa'da erken uyarı (Dikkat). Net düşüşü, görüşme günü gelmesi, iki hafta üst üste düşük program uyumu, son iki denemeye girmeme ya da üç haftadır programı olmama durumundaki öğrenciler nedenleriyle tek listede.",
+    "Sürükle-Bırak panosuna “Haftayı Temizle” düğmesi: gösterilen haftanın bütün programını siler (onay ister; ↶ Geri Al ile geri gelir)."
+   ]
+  },
   {
    "surum": "3.31",
    "tarih": "2026-11-25",
@@ -302,8 +311,8 @@
    ]
   }
  ],
- "dosya": "https://github.com/hedef500/lgs-kocluk/releases/download/v3.31/Hedef500.exe",
- "sha256": "08787c9610bad5f1b44f0953992484c75f78444c27e42f33cda9d460e4acf818",
- "boyut": 34513269,
- "imza": "NhI5zSJhdTQlu-JPMckEn_xFkVJT3hXO95rQgK9ba6PQMwubp-akdxcH3oaZrJO0Nv9a6kcyXv5m71xnNm44BA=="
+ "dosya": "https://github.com/hedef500/lgs-kocluk/releases/download/v3.32/Hedef500.exe",
+ "sha256": "ec8074c5ce96e3d2d25fea74e2c385d673928401395e7e67538f837115edad13",
+ "boyut": 34533467,
+ "imza": "OwCVertTU0d4BOkD6LyidYwfRFfHtp3akWjSy_PQefFz383t0FFswzo1eLdkdSzWAApFf5nPv6e-oZReuobdAw=="
 }
