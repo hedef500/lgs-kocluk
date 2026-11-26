@@ -1,8 +1,17 @@
 {
- "surum": "3.33",
- "tarih": "2026-11-25",
- "notlar": "• Yeni: Bilgi pencerelerinde “Dışa Aktar ▾” — listeyi Excel'e ya da PDF'e kaydedin (Ana Sayfa listeleri, Görüşmeye Hazırlık, Denemeler ve Konu Takibi sekmeleri, Eksik Bilgiler, Mükerrer Kayıtlar, Denemeleri Yönet, Konu Etüt Grupları, Haftalık İşaretleme).\n• Yeni: Haftalık İşaretleme (Toplu İşlemler ▾). Sınıfın öğrencileri × haftanın günleri; hücreye tıklayarak o günün bütün görevlerini ✓ / ½ / ✗ işaretleyin. Öğrenciler kâğıt çizelgeyi getirdiğinde sınıf birkaç dakikada işlenir.\n• Yeni: LGS tekrar dönemi (Otomatik Program). LGS'ye 8 hafta kala kendiliğinden işaretli gelir: tamamlanan konular da sırayla genel tekrara girer, haftaya iki deneme sınavı (gerçek süreyle) ve ertesi gün analizi eklenir.\n• Yeni: WhatsApp ile veliye “Kısa aylık özet (yalnız metin)”: son 30 günün net değişimi, programa uyum, en çok gelişen ders ve odaklanılacak konu 4-6 satırlık mesaj olarak; dosya eklenmez.\nYenilikler: bilgi pencerelerinde Dışa Aktar (Excel / PDF); Haftalık İşaretleme (sınıf × gün, ✓ / ½ / ✗); LGS tekrar dönemi (son 8 hafta genel tekrar ve haftada 2 deneme); WhatsApp ile veliye kısa aylık özet.",
+ "surum": "3.34",
+ "tarih": "2026-11-26",
+ "notlar": "• Ayarlar penceresi dört sekmeye ayrıldı: Genel, Raporlar, Yedek ve Taşıma, Program. Her ayarın altında ne işe yaradığı kısaca yazar; pencere artık kaydırmadan ekrana sığar.\n• WhatsApp ile Veliye Gönder penceresinin üstü yenilendi: gönderimin üç adımı (Hazırla → WhatsApp'ta Ctrl+V, Enter → Gönderildi) numaralı kutularda; kişisel veri uyarısı ayrı bir şeritte.\n• Kazanım Eşleştirme penceresine “Dışa Aktar ▾ (Excel / PDF)”: kazanımlar, önerilen konu ve güveniyle; branş öğretmeninin dolduracağı boş “Öğretmenin önerdiği konu” sütunuyla.\nYenilikler: Ayarlar dört sekmede (Genel, Raporlar, Yedek ve Taşıma, Program); Kazanım Eşleştirme'de Dışa Aktar (Excel / PDF, öğretmen sütunlu); WhatsApp penceresinin üstünde adım adım gönderim kartı.",
  "gecmis": [
+  {
+   "surum": "3.34",
+   "tarih": "2026-11-26",
+   "maddeler": [
+    "Ayarlar penceresi dört sekmeye ayrıldı: Genel, Raporlar, Yedek ve Taşıma, Program. Her ayarın altında ne işe yaradığı kısaca yazar; pencere artık kaydırmadan ekrana sığar.",
+    "WhatsApp ile Veliye Gönder penceresinin üstü yenilendi: gönderimin üç adımı (Hazırla → WhatsApp'ta Ctrl+V, Enter → Gönderildi) numaralı kutularda; kişisel veri uyarısı ayrı bir şeritte.",
+    "Kazanım Eşleştirme penceresine “Dışa Aktar ▾ (Excel / PDF)”: kazanımlar, önerilen konu ve güveniyle; branş öğretmeninin dolduracağı boş “Öğretmenin önerdiği konu” sütunuyla."
+   ]
+  },
   {
    "surum": "3.33",
    "tarih": "2026-11-25",
@@ -321,8 +330,8 @@
    ]
   }
  ],
- "dosya": "https://github.com/hedef500/lgs-kocluk/releases/download/v3.33/Hedef500.exe",
- "sha256": "6b945795e4010b7bc86953e4c1ec30db31be2a5af96c2fe7384d3e4b4dceb516",
- "boyut": 34567830,
- "imza": "_wQ5TtCjUGMObI4mguyLd-heFrlyUuZhMEEvRxWRtUNCE4sdjP1ZEbv0Q6-BkwvQKijYkMGVjCA25cxdih6HCw=="
+ "dosya": "https://github.com/hedef500/lgs-kocluk/releases/download/v3.34/Hedef500.exe",
+ "sha256": "f847bd0fec55caece7253c6ef017c63896e79f46cfab508c1828109daab6084e",
+ "boyut": 34577007,
+ "imza": "myecba-Arz8uJClfKT5rXIksZSf-yqrOGTrBrzQVGJw5zIn7VCG8KqHUr0XWPeJy07ZvPwFaVgTLZEJSChYCCQ=="
 }
