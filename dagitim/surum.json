@@ -1,8 +1,16 @@
 {
- "surum": "3.37",
+ "surum": "3.38",
  "tarih": "2026-11-26",
- "notlar": "• Çalışma Programı'nda öğrencinin “Hafta başı” seçimi daha belirgin: hafta tarihinin yanında açık mavi düğme; tıklayınca günler listesi açılır. Hafta Pazartesi dışında bir günde başlıyorsa düğme turuncu görünür.\n• Dar pencerede düğme hafta satırına sığmazsa alt satırın sağına geçer; Geri Al ve Haftayı Temizle kesilmez.\nYenilikler: Çalışma Programı'nda Hafta başı düğmesi hafta satırında ve belirgin (Pazartesi dışında turuncu); dar pencerede düğmeler kesilmez.",
+ "notlar": "• Gelişim raporundaki deneme tabloları artık en yeni deneme üstte olacak şekilde sıralanır (Deneme Sonuçları ve Ders Ders Deneme Değerlendirmesi; telefon ve A4). Veli son denemeyi aramadan görür; ekrandaki Denemeler sekmesiyle de aynı sıra.\n• Net gelişim grafiği ve sınıf raporundaki gidişat tablosu zaman sırasıyla (eskiden yeniye, soldan sağa) kalır.\nYenilikler: Gelişim raporundaki deneme tabloları en yeni deneme üstte olacak şekilde sıralanır; grafik zaman sırasıyla kalır.",
  "gecmis": [
+  {
+   "surum": "3.38",
+   "tarih": "2026-11-26",
+   "maddeler": [
+    "Gelişim raporundaki deneme tabloları artık en yeni deneme üstte olacak şekilde sıralanır (Deneme Sonuçları ve Ders Ders Deneme Değerlendirmesi; telefon ve A4). Veli son denemeyi aramadan görür; ekrandaki Denemeler sekmesiyle de aynı sıra.",
+    "Net gelişim grafiği ve sınıf raporundaki gidişat tablosu zaman sırasıyla (eskiden yeniye, soldan sağa) kalır."
+   ]
+  },
   {
    "surum": "3.37",
    "tarih": "2026-11-26",
@@ -356,8 +364,8 @@
    ]
   }
  ],
- "dosya": "https://github.com/hedef500/lgs-kocluk/releases/download/v3.37/Hedef500.exe",
- "sha256": "b62c3e57330197664275017a4e5366262c740890dddfa91bbcaf1df3e416ad63",
- "boyut": 34596522,
- "imza": "tisD0Pherc2UP7WMW76t2onD6Ycicv7uPOOccLsa3neScvVEnuHEVCG8Hu1WWx7ZROEOdq_-XGGaA80mgdFUAQ=="
+ "dosya": "https://github.com/hedef500/lgs-kocluk/releases/download/v3.38/Hedef500.exe",
+ "sha256": "901e5922bc19adfb5b21e6d8dd79505058a3a904a82c9056840d0e41a32b4e72",
+ "boyut": 34596751,
+ "imza": "VbGqWw2jnv_oMp5fMwllZLtOojLYWBYEFMLGKJqUQs6HHz7qZp5bCzRRop2ovVJzSrHpOx1E3gxep5KhY8MgCQ=="
 }
