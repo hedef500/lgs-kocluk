@@ -1,8 +1,16 @@
 {
- "surum": "3.36",
+ "surum": "3.37",
  "tarih": "2026-11-26",
- "notlar": "• Öğrenci listesinin altındaki düğmeler yenilendi: seçili öğrencinin işlemleri (Düzenle, Sınıf Değiştir, Sil) öğrencinin adının yazdığı bir kutuda toplandı; öğrenci seçili değilken soluk görünür, Sil turuncu.\n• Düğmeler panel genişliğini eşit doldurur; “Sınıfını Değiştir” sınıf süzgecinin yanından bu kutuya taşındı.\n• Eksik Bilgiler düğmesinde bilgisi eksik öğrenci sayısı yazar.\nYenilikler: Öğrenci listesinin altındaki düğmeler yenilendi (Seçili öğrenci kutusu: Düzenle, Sınıf Değiştir, Sil; Eksik Bilgiler düğmesinde eksik sayısı).",
+ "notlar": "• Çalışma Programı'nda öğrencinin “Hafta başı” seçimi daha belirgin: hafta tarihinin yanında açık mavi düğme; tıklayınca günler listesi açılır. Hafta Pazartesi dışında bir günde başlıyorsa düğme turuncu görünür.\n• Dar pencerede düğme hafta satırına sığmazsa alt satırın sağına geçer; Geri Al ve Haftayı Temizle kesilmez.\nYenilikler: Çalışma Programı'nda Hafta başı düğmesi hafta satırında ve belirgin (Pazartesi dışında turuncu); dar pencerede düğmeler kesilmez.",
  "gecmis": [
+  {
+   "surum": "3.37",
+   "tarih": "2026-11-26",
+   "maddeler": [
+    "Çalışma Programı'nda öğrencinin “Hafta başı” seçimi daha belirgin: hafta tarihinin yanında açık mavi düğme; tıklayınca günler listesi açılır. Hafta Pazartesi dışında bir günde başlıyorsa düğme turuncu görünür.",
+    "Dar pencerede düğme hafta satırına sığmazsa alt satırın sağına geçer; Geri Al ve Haftayı Temizle kesilmez."
+   ]
+  },
   {
    "surum": "3.36",
    "tarih": "2026-11-26",
@@ -348,8 +356,8 @@
    ]
   }
  ],
- "dosya": "https://github.com/hedef500/lgs-kocluk/releases/download/v3.36/Hedef500.exe",
- "sha256": "885cf4b146c2c07b8d435b7f285c3e80eb5132d97245a300d978dfb8d0a71bfd",
- "boyut": 34593846,
- "imza": "zzkdFaHA77yIt4rXcOYT4EOlp2y5gpoL6rzwbA8gmq5DUpXL59hzL2CSnf5Lyp4pQeF3HAQLNb6-6QWsFUivAw=="
+ "dosya": "https://github.com/hedef500/lgs-kocluk/releases/download/v3.37/Hedef500.exe",
+ "sha256": "b62c3e57330197664275017a4e5366262c740890dddfa91bbcaf1df3e416ad63",
+ "boyut": 34596522,
+ "imza": "tisD0Pherc2UP7WMW76t2onD6Ycicv7uPOOccLsa3neScvVEnuHEVCG8Hu1WWx7ZROEOdq_-XGGaA80mgdFUAQ=="
 }
