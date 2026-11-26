@@ -1,8 +1,17 @@
 {
- "surum": "3.35",
+ "surum": "3.36",
  "tarih": "2026-11-26",
- "notlar": "• Düzeltme: Haftaları farklı günlerde başlayan öğrencilerde hafta başında gönderim yaparken (ör. Salı günü), haftası Çarşamba başlayan öğrenciye o gün biten eski haftanın programı gidiyordu. Artık seçili takvim haftasına (Pazartesi–Pazar) denk gelen program gider; hangi gün gönderirseniz gönderin sonuç aynıdır.\n• WhatsApp ile Veliye Gönder listesinde yeni “Program haftası” sütunu: her öğrenciye gidecek programın tarihleri.\n• Aynı kural öğrenci listesindeki Plan / Rapor sütunlarında, Sınıfa Toplu Program'da ve öğrenciden öğrenciye geçerken de kullanılır.\nYenilikler: Haftaları farklı günlerde başlayan öğrencilerde hafta seçimi düzeltildi (her öğrenciye seçili haftaya denk gelen programı gider); WhatsApp listesinde Program haftası sütunu.",
+ "notlar": "• Öğrenci listesinin altındaki düğmeler yenilendi: seçili öğrencinin işlemleri (Düzenle, Sınıf Değiştir, Sil) öğrencinin adının yazdığı bir kutuda toplandı; öğrenci seçili değilken soluk görünür, Sil turuncu.\n• Düğmeler panel genişliğini eşit doldurur; “Sınıfını Değiştir” sınıf süzgecinin yanından bu kutuya taşındı.\n• Eksik Bilgiler düğmesinde bilgisi eksik öğrenci sayısı yazar.\nYenilikler: Öğrenci listesinin altındaki düğmeler yenilendi (Seçili öğrenci kutusu: Düzenle, Sınıf Değiştir, Sil; Eksik Bilgiler düğmesinde eksik sayısı).",
  "gecmis": [
+  {
+   "surum": "3.36",
+   "tarih": "2026-11-26",
+   "maddeler": [
+    "Öğrenci listesinin altındaki düğmeler yenilendi: seçili öğrencinin işlemleri (Düzenle, Sınıf Değiştir, Sil) öğrencinin adının yazdığı bir kutuda toplandı; öğrenci seçili değilken soluk görünür, Sil turuncu.",
+    "Düğmeler panel genişliğini eşit doldurur; “Sınıfını Değiştir” sınıf süzgecinin yanından bu kutuya taşındı.",
+    "Eksik Bilgiler düğmesinde bilgisi eksik öğrenci sayısı yazar."
+   ]
+  },
   {
    "surum": "3.35",
    "tarih": "2026-11-26",
@@ -339,8 +348,8 @@
    ]
   }
  ],
- "dosya": "https://github.com/hedef500/lgs-kocluk/releases/download/v3.35/Hedef500.exe",
- "sha256": "462773ad5ebb1023b05800b4c08b2b68d04ed48a249cbb1d293a3d96d5a5fd20",
- "boyut": 34583011,
- "imza": "r_wlMQ7yCe6K3j4Ahy5MJp_8YZ25GNzHtGruGnFxC6RCEK51l1_fq7JzksebZyT0DC44I_Fky7dg20Sk-JJOBg=="
+ "dosya": "https://github.com/hedef500/lgs-kocluk/releases/download/v3.36/Hedef500.exe",
+ "sha256": "885cf4b146c2c07b8d435b7f285c3e80eb5132d97245a300d978dfb8d0a71bfd",
+ "boyut": 34593846,
+ "imza": "zzkdFaHA77yIt4rXcOYT4EOlp2y5gpoL6rzwbA8gmq5DUpXL59hzL2CSnf5Lyp4pQeF3HAQLNb6-6QWsFUivAw=="
 }
