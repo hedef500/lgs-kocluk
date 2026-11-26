@@ -1,8 +1,17 @@
 {
- "surum": "3.34",
+ "surum": "3.35",
  "tarih": "2026-11-26",
- "notlar": "• Ayarlar penceresi dört sekmeye ayrıldı: Genel, Raporlar, Yedek ve Taşıma, Program. Her ayarın altında ne işe yaradığı kısaca yazar; pencere artık kaydırmadan ekrana sığar.\n• WhatsApp ile Veliye Gönder penceresinin üstü yenilendi: gönderimin üç adımı (Hazırla → WhatsApp'ta Ctrl+V, Enter → Gönderildi) numaralı kutularda; kişisel veri uyarısı ayrı bir şeritte.\n• Kazanım Eşleştirme penceresine “Dışa Aktar ▾ (Excel / PDF)”: kazanımlar, önerilen konu ve güveniyle; branş öğretmeninin dolduracağı boş “Öğretmenin önerdiği konu” sütunuyla.\nYenilikler: Ayarlar dört sekmede (Genel, Raporlar, Yedek ve Taşıma, Program); Kazanım Eşleştirme'de Dışa Aktar (Excel / PDF, öğretmen sütunlu); WhatsApp penceresinin üstünde adım adım gönderim kartı.",
+ "notlar": "• Düzeltme: Haftaları farklı günlerde başlayan öğrencilerde hafta başında gönderim yaparken (ör. Salı günü), haftası Çarşamba başlayan öğrenciye o gün biten eski haftanın programı gidiyordu. Artık seçili takvim haftasına (Pazartesi–Pazar) denk gelen program gider; hangi gün gönderirseniz gönderin sonuç aynıdır.\n• WhatsApp ile Veliye Gönder listesinde yeni “Program haftası” sütunu: her öğrenciye gidecek programın tarihleri.\n• Aynı kural öğrenci listesindeki Plan / Rapor sütunlarında, Sınıfa Toplu Program'da ve öğrenciden öğrenciye geçerken de kullanılır.\nYenilikler: Haftaları farklı günlerde başlayan öğrencilerde hafta seçimi düzeltildi (her öğrenciye seçili haftaya denk gelen programı gider); WhatsApp listesinde Program haftası sütunu.",
  "gecmis": [
+  {
+   "surum": "3.35",
+   "tarih": "2026-11-26",
+   "maddeler": [
+    "Düzeltme: Haftaları farklı günlerde başlayan öğrencilerde hafta başında gönderim yaparken (ör. Salı günü), haftası Çarşamba başlayan öğrenciye o gün biten eski haftanın programı gidiyordu. Artık seçili takvim haftasına (Pazartesi–Pazar) denk gelen program gider; hangi gün gönderirseniz gönderin sonuç aynıdır.",
+    "WhatsApp ile Veliye Gönder listesinde yeni “Program haftası” sütunu: her öğrenciye gidecek programın tarihleri.",
+    "Aynı kural öğrenci listesindeki Plan / Rapor sütunlarında, Sınıfa Toplu Program'da ve öğrenciden öğrenciye geçerken de kullanılır."
+   ]
+  },
   {
    "surum": "3.34",
    "tarih": "2026-11-26",
@@ -330,8 +339,8 @@
    ]
   }
  ],
- "dosya": "https://github.com/hedef500/lgs-kocluk/releases/download/v3.34/Hedef500.exe",
- "sha256": "f847bd0fec55caece7253c6ef017c63896e79f46cfab508c1828109daab6084e",
- "boyut": 34577007,
- "imza": "myecba-Arz8uJClfKT5rXIksZSf-yqrOGTrBrzQVGJw5zIn7VCG8KqHUr0XWPeJy07ZvPwFaVgTLZEJSChYCCQ=="
+ "dosya": "https://github.com/hedef500/lgs-kocluk/releases/download/v3.35/Hedef500.exe",
+ "sha256": "462773ad5ebb1023b05800b4c08b2b68d04ed48a249cbb1d293a3d96d5a5fd20",
+ "boyut": 34583011,
+ "imza": "r_wlMQ7yCe6K3j4Ahy5MJp_8YZ25GNzHtGruGnFxC6RCEK51l1_fq7JzksebZyT0DC44I_Fky7dg20Sk-JJOBg=="
 }
